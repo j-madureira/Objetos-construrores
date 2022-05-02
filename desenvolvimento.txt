@@ -1,0 +1,7 @@
+- Crie um Objeto construtor que contém as seguintes propriedades:
+Nome
+Nota1
+Nota2
+- Crie um método para calcular as médias
+- Armazene os objetos dentro de um Array
+- Veja o Array
